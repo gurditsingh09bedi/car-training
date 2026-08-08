@@ -5,6 +5,7 @@ ORG:ESH Driving School
 TEL;TYPE=CELL:+447496267333
 EMAIL:Singh2512h@gmail.com
 ADR:;;Burlington Walk;North Tidworth;;;United Kingdom
-URL:https://wa.me/447496267333
-NOTE:Driving Lessons - North Tidworth and surrounding areas
+URL;TYPE=WhatsApp:https://wa.me/447496267333
+X-SOCIALPROFILE;TYPE=facebook:https://www.facebook.com/people/ESH-Driving-School/61586240379653/
+NOTE:Driving Lessons - North Tidworth and surrounding areas. Follow us on Facebook for updates: https://www.facebook.com/people/ESH-Driving-School/61586240379653/
 END:VCARD
